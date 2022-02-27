@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Amsterdam conteining the full relation of the proceedings of the Prince of Orange against that city, and the transactions betwixt him, and the citizens, their opening of the sluces to drown the said city, with severall other passages thereupon, and the copy of the Prince of Orange his letter the magistrates of the city. With an exact relation of the five days seige or blocking up, of Amsterdam by the Prince of Orange, and Grave William of Nassaw. Together with a particular discovery of the whole design and opening the sluces to let in the sea, which hath overflown great part of the land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87939</idno>
+            <idno type="STC">Wing L1438</idno>
+            <idno type="STC">Thomason E608_22</idno>
+            <idno type="STC">ESTC R205929</idno>
+            <idno type="EEBO-CITATION">99865152</idno>
+            <idno type="PROQUEST">99865152</idno>
+            <idno type="VID">165704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165704)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E608[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Amsterdam conteining the full relation of the proceedings of the Prince of Orange against that city, and the transactions betwixt him, and the citizens, their opening of the sluces to drown the said city, with severall other passages thereupon, and the copy of the Prince of Orange his letter the magistrates of the city. With an exact relation of the five days seige or blocking up, of Amsterdam by the Prince of Orange, and Grave William of Nassaw. Together with a particular discovery of the whole design and opening the sluces to let in the sea, which hath overflown great part of the land.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop for T.P. and are to be sold at the Royall-Exchange in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  II, --  Prince of Orange, 1626-1650.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Amsterdam (Netherlands) --  History --  Siege, 1650 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165704:1" rendition="simple:additions"/>
+            <p>A Letter from AMSTERDAM Conteining the full relation of the Procee<g ref="char:EOLhyphen"/>dings of the Prince of Orange Againſt that City, and the tranſactions betwixt him, and the Citizens, their opening of the Sluces to drown the ſaid City, with ſeverall other paſſa<g ref="char:EOLhyphen"/>ges thereupon, and the Copy of the Prince of <hi>Orange</hi> his Letter the Magiſtrates of the City.</p>
+            <p>WITH An exact relation of the five days ſeige or blocking up, of <hi>Amſterdam</hi> by the Prince of <hi>Orange,</hi> and Grave <hi>William</hi> of <hi>Naſſaw.</hi>
+            </p>
+            <p>TOGETHER With a particular diſcovery of the whole deſign and opening the Sluces to let in the Sea, which hath over flown great part of the Land.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Bernard Alſop</hi> for <hi>T. P.</hi> and are to be ſold at the <hi>Royall-Exchange</hi> in Cornhil. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165704:2"/>
+            <pb n="1" facs="tcp:165704:2"/>
+            <head>Letters from AMSTERDAM CONTEINING The full relation of the Proceedings of the Prince of <hi>ORANGE,</hi> againſt that City, and the tranſactions betwixt him and the Citizens, their opening of the Sluces, to drown the ſaid City with ſeve<g ref="char:EOLhyphen"/>rall other paſſages thereupon, the Copy of the Prince of <hi>ORANGE</hi> his Letter to the Magiſtrates of the City.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Doubt not but the news of the Armies comming down againſt Amſterdam; hath by this time diſperſed it ſelf throughout Europe, but the occaſi<g ref="char:EOLhyphen"/>on and the tranſactions between the Prince of <hi>Orange,</hi> and the Citizens may be worthy of your obſervation, viz. The Prince having a high diſ<g ref="char:EOLhyphen"/>pleaſure
+<pb n="2" facs="tcp:165704:3"/>and indgnation againſt the Magiſtrates of Amſterdam contrived away whereby he intended to ſurprize this rich &amp; famous City by a ſtratagem, and to effect this deſign without giving cauſe of ſuſpicion what his intent was, He ordred Grave <hi>William</hi> of Naſſaw to empty all frontier Garriſons, upon pre<g ref="char:EOLhyphen"/>tence of conveying the old Prince of Orange in<g ref="char:EOLhyphen"/>to Germany, and to be ready at the ſame time with his horſe to enter the City, which was contri<g ref="char:EOLhyphen"/>ved to be done on Saturday the thirty of July about 3 or 4 in the morning at the opening of the Gates; for effecting of which deſign with the more certainty and ſecrecie, about two hundred foot ſouldiers were put privately into ſeveral Turf boats, which were to come up to the City at the ſame time by water, and lying undiſcovered, were to fall in at the very ſame inſtant when the horſe ſhould enter the gates, and ſurprize the Guard at the Regulaters high-way, which being done, he thought good to make the City with<g ref="char:EOLhyphen"/>out any reſiſtance. But ſo it was, that when the Plot was almoſt ready to be put in execution, it pleaſed God to diſappoint al their purpoſes, partly by reaſon of the great rain which fell all Friday (July 29.) in the afternoon, and all the ſame night, which made the ways very deep and rotten; ſo that the Prince his horſe having a long march, of four and twenty miles ty<g ref="char:EOLhyphen"/>red.</p>
+            <p>Then they turned to a City about ten miles off, but the Citizens refuſed to paſſe through or let them in, in regard they knew not what they were; where<g ref="char:EOLhyphen"/>upon they were forced to march another way, which was to their great diſadvantage, and that nigh
+<pb n="3" facs="tcp:165704:3"/>being very dark, and wanting good guides, they miſ<g ref="char:EOLhyphen"/>took their way, which hindred them above three hours time, by reaſon whereof they could not get unto Amſterdam before nine of the clock on Sa<g ref="char:EOLhyphen"/>turday, which was ſix houres after the time appoint<g ref="char:EOLhyphen"/>ed to enter the City, ſo that before they got thither, their deſign was diſcovered to the Magiſtrates, by the Poſt of Hambrough, who accidentally fel mongſt the horſe, when they were doubtfull of their way, which made his company very acceptable to them, in regard they might make uſe of him to be their guide, but when he perceived their deſign, he ſtole away from them and haſted to Amſterdam, and made known to the Magiſtrates, what he had learned by riding a while amongſt their troops.</p>
+            <p>Grave <hi>William</hi> perceiving that Providence fought againſt him (to the loſſe of the time appointed, and beſt opportunity) was filled with diſcontent, and quartered his Forces at Over-Qirtie, which is three miles from the City, attending there to re<g ref="char:EOLhyphen"/>ceive further Orders from the Prince of Orange, who was at the Hague, and had there impriſo<g ref="char:EOLhyphen"/>ned many publique perſons that were ſent from Dort, Horten, Delf, and other places, and ſo confi<g ref="char:EOLhyphen"/>dent was he, that the deſign on which he had ſent Grave <hi>William,</hi> would take effect, that he told the impriſoned with his own mouth, Amſterdam was his own, but immediately after news was brought him to the contrary, which ſo much ſtartled him that its <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid, he took his hat, threw it one the ground, and ſet his feet upon it. When his heat of paſſion was over, he haſted away and on Sunday came to
+<pb n="4" facs="tcp:165704:4"/>Grave <hi>William,</hi> but his comming was to little pur<g ref="char:EOLhyphen"/>poſe, for ſo ſoon as the Magiſtrates of Amſterdam, received the information from the Poſt at Hambo<g ref="char:EOLhyphen"/>rough as aforeſaid, they cauſed all the gates of the City to be ſhut up, and the booms to be lockt, which are as ſo many gates by water, and put all the City-Garriſon into arms, with their muskets ready char<g ref="char:EOLhyphen"/>ged with bullet, They alſo cauſed ſeverall Braſſe Guns to be mounted on their works, and ſent many veſſels well man'd and provided to lie upon Sinſter, which is an inland River, and ſome men of war rode at Anchor upon the Tij, which is an arm of the Sea, So that good guards were quickly placed about the City, both by land and water, and the apparence of men in their Arms was the more ſpeedier for that at the beat of Drum they were commanded forth in the name of the Magiſtrates of Amſterdam, which was a thing not uſuall.</p>
+            <p>The city being in ſuch a poſture of defence, Grave <hi>William</hi> moved the Prince to block up the city at a di<g ref="char:EOLhyphen"/>ſtance on the South ſide of <hi>Tij,</hi> conceiving that if they could keep proviſions from it, in time he ſhould ob<g ref="char:EOLhyphen"/>tain his Deſires. But the Magiſtrates wiſely foreſee<g ref="char:EOLhyphen"/>ing the danger, cauſed all the Sluces to be opened, on Sunday about noon, it pleaſed God a little before to turn the wind Northweſt, which uſually brings in much water; by this means all the low grounds for many miles without Amſterdam lay under water in ſhort time, ſo that the Princes horſes could have no graſſe, nor make nearer approaches, unleſſe upon banks, where above three a breſt could not march
+<pb n="5" facs="tcp:165704:4"/>and then it muſt have been upon the mouth of the cannon: hereupon on ſunday the Prince ſent a Trum<g ref="char:EOLhyphen"/>peter into the city, and 4 of the Cities Councel was ſent to the Prince at ſeveral times, on Munday, Tueſ<g ref="char:EOLhyphen"/>day, and Wedneſday, and ſtayed all Tueſday and Wedneſday night with him; in all which time ſeve<g ref="char:EOLhyphen"/>ral other meſſengers came from him to the Magi<g ref="char:EOLhyphen"/>ſtrates. During all theſe tranſactions, ſeveral Let<g ref="char:EOLhyphen"/>ters came from the moſt eminent towns in Holland, and from Utritch to the Magiſtrates of Amſterdam, certifying their diſlike of the Princes proceedings, and ſeveral other Magiſtrates came alſo in perſon, af<g ref="char:EOLhyphen"/>firming the ſame, which much encouraged the City, and diſheartned the Prince, who on Wedneſday was commanded by the States General (as is reported) to appear preſently in the Hague, and in four and twenty hours to cauſe all the Forces to repair to their ſeveral Garriſons; and to that end on Thurſ<g ref="char:EOLhyphen"/>day morning as ſoon as the day appeared, he remo<g ref="char:EOLhyphen"/>ved from before Amſterdam, at which there was no ſmall rejoycing. During the Prince his abſence from the Hague, there hath been mutenies, and the inhabi<g ref="char:EOLhyphen"/>tants would have plundered the Princes Court.</p>
+            <p>Thus you have a Relation of the 5 days blocking up of the famous City of Amſterdam, who in the Hague (no doubt) will proſecute the chief authors of this deſign, of which more hereafter.</p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:165704:5"/>
+            <head>A Copy of a Letter ſent by his Highneſs the the Prince of <hi>Orange,</hi> to the right worſhipfull the Burgamaſters, and Governours of the City of Amſterdam.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Ight worſhipfull, wiſe, diſcreet, and ſingular good friends; Being laſt time in your Citie, I was ſo ſtrang<g ref="char:EOLhyphen"/>ly entreated by you, that (to bee no more ſubject to the like) I have appointed Count</hi> William <hi>of Naſſaw, with certain Troops in your Citie, with an Order, to keepe all things therein in peace and tranquillity. To the end, that what I have further to propound unto you, touching the ſervice of the State, may not be in<g ref="char:EOLhyphen"/>terrupted by ſome ill-meaning people: To which J deſire you to put too your helping hand. And relying hereupon, we commend you to the protecti<g ref="char:EOLhyphen"/>on of the moſt High, and remain,</hi>
+            </p>
+            <closer>
+               <signed>Your good Friend C. P. d' <hi>Orange.</hi>
+               </signed>
+               <dateline>Hague, <date>29. <hi>Iuly,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
